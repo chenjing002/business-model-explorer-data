@@ -1,0 +1,3 @@
+# 商业模式探索器 · 数据分站
+
+公司与榜单索引：https://chenjing002.github.io/business-model-explorer/llms.txt
